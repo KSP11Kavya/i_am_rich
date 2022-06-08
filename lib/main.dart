@@ -13,8 +13,8 @@ void main() {
           ),
             body: Center(
               child: Image(
-                image:
-                NetworkImage('https://www.w3schools.com/w3css/img_lights.jpg'),
+                image: AssetImage('images/diamond.png')
+               // NetworkImage('https://www.w3schools.com/w3css/img_lights.jpg'),(in this we learn how to take image online and put
 
                 ),
               ),

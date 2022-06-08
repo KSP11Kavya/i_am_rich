@@ -27,4 +27,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/diamond.png
+    - images/
+#you dont have to put all images name for example images/diamond.png so that why you can just put('images/')#
+# pubspec in commit i write as a P
